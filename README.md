@@ -4,7 +4,7 @@ Collection of job interview questions, currently only houses one code test which
 
 The [Questions](https://github.com/mkfrancsis/InterviewQuestions/tree/master/Questions) folder contains screen shots of all of the questions I was asked.  The test was broken up into 3 sections: 
 1) 7 data analysis questions
-  - This section was completed in a local notebook `ArundoCodeTest.ipynb`
+  - This section was completed in a local notebook [ArundoCodeTest.ipynb](https://github.com/mkfrancsis/InterviewQuestions/blob/master/ArundoCodeTest.ipynb)
   - The two data files that were provided are located in the [AnalysisData folder](https://github.com/mkfrancsis/InterviewQuestions/tree/master/AnalysisData)
 2) 3 coding challenge questions
   - This work was performed in the browswer code editor
